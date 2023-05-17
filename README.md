@@ -2,7 +2,20 @@
 
 this is a React project that focuses on using the ContextAPI. The main objective is to create an interactive shopping cart for a virtual supermarket.
 
-Functionalities:
+1 - Put your name and the amount available for purchase
+<img src="./public/assets/1.JPG">
+
+
+2 - Choose the items you want to buy and click on the shopping cart in the top right corner.
+<img src="./public/assets/2.JPG">
+
+3 - Choose the payment method you want to buy and click buy.
+* Note: each payment method has its own built-in interest calculation. Payment method via PIX has no interest.
+<img src="./public/assets/3.JPG">
+
+4 - After your purchase, your balance will decrease and if you want to make a new purchase, click on the arrow to return to the market on the arrow in the upper left corner and make a new purchase with your new balance.
+
+# Functionalities:
 
 * User can add their name and enter cash balance available for purchases.
 
@@ -20,19 +33,11 @@ Have fun shopping!
 
 # How to use:
 
-1ª Option:
-
 Requires Node.Js version 18 (or higher) installed. -> https://nodejs.org/
 
 1. Install Node.Js 18 (or higher) from the official website https://nodejs.org/, if not installed.
 4. Use the command "npm i" in the terminal to install all necessary dependencies.
 5. Use the command "npm start" in the terminal to open the web system in your browser in 'http://localhost:3000
-
-2º Option:
-
-Access the website with the link below:
-
-
 
 # Expansion:
 
